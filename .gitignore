@@ -1,0 +1,35 @@
+# -------------------
+# Python
+# -------------------
+
+back/venv/
+__pycache__/
+*.pyc
+
+# -------------------
+# Environment Files
+# -------------------
+
+.env
+back/.env
+frontend/.env
+
+# -------------------
+# Frontend
+# -------------------
+
+frontend/node_modules/
+frontend/dist/
+
+# -------------------
+# OS Files
+# -------------------
+
+.DS_Store
+Thumbs.db
+
+# Old backend folder
+backend/
+
+# Generated files
+back/outputs/
